@@ -1,0 +1,124 @@
+body{
+  background-color: #ebebec;
+  max-width:100%;
+  min-width:980px;
+  margin: 0 auto;
+  font-family: "Helvetica", "Helvetica Neue", sans-serif;
+  letter-spacing: .1em;
+}
+
+header{
+  width:100%;
+  max-width:980px;
+  margin: 4em auto;
+  /*border:solid thin red;*/
+  text-align: center;
+}
+
+.logo{
+  width:40%;
+  /*border:solid thin green;*/
+}
+
+.main{
+  width:100%;
+}
+
+.main-image{
+  width:100%;
+}
+
+.message{
+  margin:3em auto;
+  /*border:solid thin red;*/
+  width:50%;
+  max-width:980px;
+  text-align: center;
+}
+
+.message_sub1{
+  margin-bottom:.75em;
+}
+
+footer{
+  width:85%;
+  max-width: 980px;
+  margin:0 auto;
+  /*border:solid thin red;*/
+}
+
+.footer_1{
+  display:inline-block;
+  vertical-align:top;
+  width:30%;
+  border-top:solid 2px grey;
+  /*border:solid thin red;*/
+  margin-right:5%;
+  padding-top: 1.3em;
+  line-height: 1.6em;
+}
+
+.call_1{
+  display: inline-block;
+  margin-right:1.5em;
+}
+.call_2{
+  display: inline-block;
+}
+
+.footer_2{
+  display:inline-block;
+  vertical-align: top;
+  width:30%;
+  border-top:solid 2px grey;
+  /*border:solid thin red;*/
+  margin-right:5%;
+  padding-top: 1.3em;
+  line-height: 1.6em;
+}
+
+.time_1{
+  display: inline-block;
+  margin-right:1.5em;
+}
+.time_2{
+  display: inline-block;
+}
+
+.footer_3{
+  display:inline-block;
+  vertical-align: top;
+  width:30%;
+  border-top:solid 2px grey;
+  /*border:solid thin red;*/
+  padding-top: 1.3em;
+  line-height: 1.6em;
+}
+
+.social{
+  /*border:solid thin red;*/
+}
+
+.twitter{
+  display:inline-block;
+  vertical-align: middle;
+  width:5.5%;
+  padding-top:.23em;
+  margin-right: .9em;
+  /*border:solid thin red;*/
+}
+
+.facebook{
+  display:inline-block;
+  vertical-align: middle;
+  width:5.5%;
+  margin-right: .6em;
+  /*border:solid thin red;*/
+}
+
+.insta{
+  display:inline-block;
+  vertical-align: middle;
+  width:5.5%;
+  /*border:solid thin red;*/
+}
