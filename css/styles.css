@@ -44,6 +44,7 @@ footer{
   width:85%;
   max-width: 980px;
   margin:0 auto;
+  margin-bottom:3em;
   /*border:solid thin red;*/
 }
 
