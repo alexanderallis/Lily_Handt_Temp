@@ -3,8 +3,8 @@ body{
   max-width:100%;
   min-width:980px;
   margin: 0 auto;
-  font-family: "Helvetica", "Helvetica Neue", sans-serif;
-  letter-spacing: .1em;
+  font-family: "Muli", "Helvetica Neue", "Helvetica", sans-serif;
+  letter-spacing: .04em;
 }
 
 header{
