@@ -1,7 +1,7 @@
 body{
   background-color: #ebebec;
   max-width:100%;
-  min-width:980px;
+  min-width:1000px;
   margin: 0 auto;
   font-family: "Muli", "Helvetica Neue", "Helvetica", sans-serif;
   letter-spacing: .04em;
@@ -9,7 +9,7 @@ body{
 
 header{
   width:100%;
-  max-width:980px;
+  max-width:1000px;
   margin: 4em auto;
   /*border:solid thin red;*/
   text-align: center;
@@ -32,7 +32,7 @@ header{
   margin:3em auto;
   /*border:solid thin red;*/
   width:50%;
-  max-width:980px;
+  max-width:1000px;
   text-align: center;
 }
 
@@ -42,7 +42,7 @@ header{
 
 footer{
   width:85%;
-  max-width: 980px;
+  max-width: 1000px;
   margin:0 auto;
   margin-bottom:3em;
   /*border:solid thin red;*/
